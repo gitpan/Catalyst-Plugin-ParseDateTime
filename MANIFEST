@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Catalyst-Plugin-ParseDateTime.t
+lib/Catalyst/Plugin/ParseDateTime.pm
+META.yml                                 Module meta-data (added by MakeMaker)
